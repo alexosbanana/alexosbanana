@@ -1,6 +1,6 @@
 # 👋 Hey, ich bin Alexos
 
-💻 Discord-Bot-Entwickler & Hobby-Programmierer  
+💻 Discord-Bot-Entwickler
 🛠️ Fokus: JavaScript, TypeScript, Node.js  
 🚀 Ich baue Tools & Bots für die Community
 
