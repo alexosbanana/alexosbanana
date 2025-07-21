@@ -5,7 +5,7 @@
 🚀 Ich baue Tools & Bots für die Community
 
 ## 📌 Projekte
-- 🧠 **Discord Bots** – Bot uber Discord 
+- 🧠 **Discord Bots** – Bot über Discord 
 - 📂 **Code-Snippets** – Nützliche Beispiele für JS & TS
 
 ## 📫 Kontakt
